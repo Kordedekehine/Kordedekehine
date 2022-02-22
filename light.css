@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+    body{
+    background-color: #333;
+    }
+    .box{
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    border: 1px white;
+    margin: auto;
+    position: relative;
+    animation-name: korede;
+    animation-duration: 6s;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    }
+    
+    @keyframes korede{
+    0%{background-color:white;}
+    10%{background-color: red;}
+    20%{background-color: blue;}
+    30%{background-color: green;}
+    40%{background-color: orange;}
+    50%{background-color: pink;}
+    60%{background-color: purple;}
+    70%{background-color: indianred;}
+    80%{background-color: black;}
+    90%{background-color: yellow;}
+    100%{background-color:lightblue;}
+    }
