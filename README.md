@@ -19,7 +19,7 @@
 
 - A passionate Java Software Engineer
 - Writing on philosophy of technology as fun
-- Personal website [link](https://salamikorede.netlify.app/)
+- Personal website [link](https://korede.vercel.app/)
 - I help people learn through my Blog [link](https://salamikorede.hashnode.dev/)
 - I’m open for projects contribution
 <br><br>
